@@ -1,6 +1,5 @@
-
+// displays rocket blast off sequence countdown based on numerical input
 var countdownGenerator = function (x) {
-  /* your code here */
   var i = x;
 
   return function() {
